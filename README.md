@@ -8,7 +8,7 @@ Been coding since 2018 as a way to not do school work and now has for some reaso
 
 * 🌍  I'm based in Auckland
 * ✉️  You can contact me at [ChrisGraham908@gmail.com](mailto:ChrisGraham908@gmail.com)
-* 🚀  I'm currently working on [FSAE Car](http://https://www.fsae.co.nz/)
+* 🚀  I'm currently working on [FSAE Car](https://www.fsae.co.nz/)
 * 🧠  I'm learning embedded systems
 * 🤝  I'm open to collaborating on any robotics projects
 
